@@ -36,11 +36,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/blue-travel-offers-deals-website.git
+    git clone https://github.com/Buczjc/Blue-Travel-Offers-Deals-Website
     ```
 2. Navigate to the project directory:
     ```bash
-    cd blue-travel-offers-deals-website
+    cd Blue-Travel-Offers-Deals-Website
     ```
 
 Open the `index.html` file in your preferred web browser to view the website.
